@@ -1,6 +1,6 @@
 ;NSIS Modern User Interface
-;Basic Example Script
-;Written by Joost Verburg
+; Myriad Installer for Windows 32-bit
+; Written by nzsquirrell
 
 ;--------------------------------
 ;Include Modern UI
