@@ -1,0 +1,1 @@
+Place 32-bit Myriad executables in this folder.

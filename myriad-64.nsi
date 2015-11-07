@@ -11,7 +11,7 @@
 ;General
 
   
-  !define VERSION "0.9.2.16"
+  !define VERSION "0.9.2.17"
   !define ARCH "64"
   
   ;Name and file
